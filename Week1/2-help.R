@@ -1,0 +1,7 @@
+library("dplyr")
+library("ggplot2")
+library("GGally")
+library("psych")
+help("predict")
+help("describe")
+help(lm)
